@@ -9,7 +9,7 @@
 
 - How to contact me? **ZheniaNominatyt@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zhenia_nominat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhenia_nominat_" height="30" width="40" /></a>
 </p>
