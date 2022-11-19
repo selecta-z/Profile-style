@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhenia Nominat</h1>
 <h3 align="center">Beginner junior frontend developer looking for a job in a company that will help me consolidate my current knowledge in this field and acquire many new ones :)</h3>
 
-<img align="right" alt="Coding" width="400" https://us.123rf.com/450wm/andreysuslov/andreysuslov2205/andreysuslov220500001/185416609-coding-code-of-program-on-desktop-pc-computer-of-programmer-on-desk-abstract-icons-diagrams-graphs-o.jpg?ver=6>
+<img align="right" alt="Coding" width="400" https://i.pinimg.com/736x/55/f2/7c/55f27c2be0cb8c6b3f24352bc1cb45a7.jpg>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selecta-z&label=Profile%20views&color=0e75b6&style=flat" alt="selecta-z" /> </p>
 
